@@ -13,6 +13,3 @@ In the code, body and keyboard can be hidden, to show hands only.
 Code documentation will follow. The 'larger framework' will require Pages for its full and proper presentation.
 
 ![image](https://user-images.githubusercontent.com/3308319/156286125-7defd33b-45d5-496e-aa5e-586a56dd7709.png)
-
-![image](https://user-images.githubusercontent.com/3308319/156287321-e309dcf5-61dc-4f17-ad30-46dad6250f69.png)
-
