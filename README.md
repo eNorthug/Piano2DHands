@@ -11,3 +11,5 @@ The project wraps its two essential objects - HandHodel and HandShape - with a s
 In the code, body and keyboard can be hidden, to show hands only.
 
 Code documentation and graphics will follow shortly. The 'larger framework' will require Pages for its full and proper presentation.
+
+![image](https://user-images.githubusercontent.com/3308319/156286125-7defd33b-45d5-496e-aa5e-586a56dd7709.png)
