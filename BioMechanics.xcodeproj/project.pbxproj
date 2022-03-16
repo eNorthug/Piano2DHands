@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD186D3027E1168500AF87FB /* HandModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD186D2F27E1168500AF87FB /* HandModel.swift */; };
+		BD186D3427E1195B00AF87FB /* HandShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD186D3327E1195B00AF87FB /* HandShape.swift */; };
 		BD624AF52793586400D75E95 /* BioMechanicsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD624AF42793586400D75E95 /* BioMechanicsApp.swift */; };
 		BD624AF72793586400D75E95 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD624AF62793586400D75E95 /* ContentView.swift */; };
 		BD624AF92793586600D75E95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD624AF82793586600D75E95 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD186D2F27E1168500AF87FB /* HandModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HandModel.swift; sourceTree = "<group>"; };
+		BD186D3327E1195B00AF87FB /* HandShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HandShape.swift; sourceTree = "<group>"; };
 		BD624AF12793586400D75E95 /* BioMechanics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BioMechanics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD624AF42793586400D75E95 /* BioMechanicsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BioMechanicsApp.swift; sourceTree = "<group>"; };
 		BD624AF62793586400D75E95 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				BD624AF42793586400D75E95 /* BioMechanicsApp.swift */,
 				BD624AF62793586400D75E95 /* ContentView.swift */,
+				BD186D2F27E1168500AF87FB /* HandModel.swift */,
+				BD186D3327E1195B00AF87FB /* HandShape.swift */,
 				BD624AF82793586600D75E95 /* Assets.xcassets */,
 				BD624AFA2793586600D75E95 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD624AF72793586400D75E95 /* ContentView.swift in Sources */,
+				BD186D3027E1168500AF87FB /* HandModel.swift in Sources */,
+				BD186D3427E1195B00AF87FB /* HandShape.swift in Sources */,
 				BD624AF52793586400D75E95 /* BioMechanicsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
